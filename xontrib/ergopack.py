@@ -1,14 +1,16 @@
 from xonsh import xontribs
 
 _xontribs = [
-  'prompt_bar',
-  'output_search',
-  'whole_word_jumping',
-  'pipeliner',
   'argcomplete',
+  'back2dir',
   'onepath',
+  'output_search',
+  'prompt_bar',
+  'pipeliner',
   'sh',
-  'back2dir'
+  'whole_word_jumping',
 ]
+
+_xontribs = __xonsh__.env.get('XONTRIB_ERGOPACK_XONTRIBS', _xontribs)
 
 xontribs.xontribs_load(_xontribs)
