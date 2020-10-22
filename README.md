@@ -10,7 +10,7 @@ If you like the idea click ⭐ on the repo and stay tuned.
 ## Xontribs
 
 * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts.
-* [back2dir](https://github.com/anki-code/xontrib-back2dir) - Back to the latest used directory when starting xonsh shell.
+* [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting xonsh shell.
 * [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
 * [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
 * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
