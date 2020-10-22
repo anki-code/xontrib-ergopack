@@ -1,3 +1,5 @@
+from xonsh import xontribs
+
 _xontribs = [
   'prompt_bar',
   'output_search',
@@ -8,4 +10,5 @@ _xontribs = [
   'sh',
   'back2dir'
 ]
-xontrib load @(_xontribs)
+
+xontribs.xontribs_load(_xontribs)
