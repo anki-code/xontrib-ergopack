@@ -17,12 +17,17 @@ If you like the idea click ⭐ on the repo and stay tuned.
 * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
 
+## Developers extra
+
+* [xontrib-hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
+
 ## Installation
 
 To install use pip:
 
 ```bash
 xpip install xontrib-ergopack
+# or for developers extra: xpip install xontrib-ergopack[dev]
 # or: xpip install -U git+https://github.com/anki-code/xontrib-ergopack
 ```
 
