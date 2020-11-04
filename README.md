@@ -19,7 +19,7 @@ If you like the idea click ⭐ on the repo and stay tuned.
 
 ## Developers extra
 
-* [xontrib-hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
+* [hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
 
 ## Installation
 
