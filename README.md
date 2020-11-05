@@ -7,7 +7,7 @@ If you like the idea click ⭐ on the repo and stay tuned.
 </p>
 
 
-## xontribs: default
+## Default xontribs
 
 ```bash
 xpip install -U xontrib-ergopack
@@ -20,7 +20,7 @@ xpip install -U xontrib-ergopack
 * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
 
-## xontribs: prompt
+## Prompt xontribs
 
 ```bash
 xpip install -U xontrib-ergopack[prompt]
@@ -29,7 +29,7 @@ xpip install -U xontrib-ergopack[prompt]
 * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
 * All default xontribs.
 
-## xontribs: dev
+## Dev xontribs
 
 ```bash
 xpip install -U xontrib-ergopack[dev]
@@ -38,7 +38,7 @@ xpip install -U xontrib-ergopack[dev]
 * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
 * All default xontribs.
 
-## xontribs all
+## All xontribs
 
 ```bash
 xpip install -U xontrib-ergopack[prompt,dev]
