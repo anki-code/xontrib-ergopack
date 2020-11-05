@@ -36,7 +36,7 @@ xpip install -U xontrib-ergopack[dev]
 ```
 
 * All default xontribs.
-* [hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
+* [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
 
 ## xontribs all
 
