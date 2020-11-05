@@ -20,15 +20,6 @@ xpip install -U xontrib-ergopack
 * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
 
-## xontribs: dev
-
-```bash
-xpip install -U xontrib-ergopack[dev]
-```
-
-* All default xontribs.
-* [hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
-
 ## xontribs: prompt
 
 ```bash
@@ -38,8 +29,26 @@ xpip install -U xontrib-ergopack[prompt]
 * All default xontribs.
 * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
 
+## xontribs: dev
+
+```bash
+xpip install -U xontrib-ergopack[dev]
+```
+
+* All default xontribs.
+* [hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
+
+## xontribs all
+
+```bash
+xpip install -U xontrib-ergopack[prompt,dev]
+```
+
+* Install all ergonomic xontribs.
+
 ## Usage
 
+Load default xontribs:
 ```bash
 xontrib load ergopack
 ```
