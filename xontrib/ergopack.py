@@ -5,7 +5,6 @@ _xontribs = [
   'back2dir',
   'onepath',
   'output_search',
-  'prompt_bar',
   'pipeliner',
   'sh',
   'whole_word_jumping',  # xonsh built in

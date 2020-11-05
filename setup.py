@@ -9,7 +9,7 @@ except (IOError, OSError):
 
 setuptools.setup(
     name='xontrib-ergopack',
-    version='0.0.4',
+    version='0.1.0',
     license='MIT',
     author='anki-code',
     author_email='no@no.no',
@@ -18,15 +18,16 @@ setuptools.setup(
     long_description_content_type='text/markdown',
     python_requires='>=3.6',
     install_requires=[
-        'xontrib-prompt-bar',
         'xontrib-argcomplete',
+        'xontrib-back2dir',
         'xontrib-onepath',
         'xontrib-output-search',
         'xontrib-pipeliner',
         'xontrib-sh',
-        'xontrib-back2dir'],
+    ],
     extras_require={
-        "dev": ["xontrib-hist-format"]
+        "dev": ["xontrib-hist-format"],
+        "prompt": ["xontrib-prompt-bar"],
     },
     packages=['xontrib'],
     package_dir={'xontrib': 'xontrib'},
