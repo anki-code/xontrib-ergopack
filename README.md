@@ -26,8 +26,8 @@ xpip install -U xontrib-ergopack
 xpip install -U xontrib-ergopack[prompt]
 ```
 
-* All default xontribs.
 * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
+* All default xontribs.
 
 ## xontribs: dev
 
@@ -35,16 +35,14 @@ xpip install -U xontrib-ergopack[prompt]
 xpip install -U xontrib-ergopack[dev]
 ```
 
-* All default xontribs.
 * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
+* All default xontribs.
 
 ## xontribs all
 
 ```bash
 xpip install -U xontrib-ergopack[prompt,dev]
 ```
-
-* Install all ergonomic xontribs.
 
 ## Usage
 
