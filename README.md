@@ -41,7 +41,7 @@ xpip install -U 'xontrib-ergopack[dev]'
 ## All xontribs
 
 ```bash
-xpip install -U xontrib-ergopack[prompt,dev]
+xpip install -U 'xontrib-ergopack[prompt,dev]'
 ```
 
 ## Usage
