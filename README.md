@@ -10,7 +10,7 @@ If you like the idea click ⭐ on the repo and stay tuned.
 ## Default xontribs
 
 By default ergopack contains xontribs that do not change the prompt or commands processing. 
-The xontribs that do more significant changes are in "extras".
+The xontribs that do more significant changes are in PyPi "extras".
 
 ```bash
 xpip install -U xontrib-ergopack
