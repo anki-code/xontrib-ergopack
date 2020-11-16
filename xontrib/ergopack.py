@@ -3,7 +3,6 @@ from xonsh import xontribs
 _xontribs = [
   'argcomplete',
   'back2dir',
-  'onepath',
   'output_search',
   'pipeliner',
   'sh',

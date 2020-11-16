@@ -9,16 +9,27 @@ If you like the idea click ⭐ on the repo and stay tuned.
 
 ## Default xontribs
 
+By default ergopack contains xontribs that do not change the prompt or commands processing. 
+The xontribs that do more significant changes are in "extras".
+
 ```bash
 xpip install -U xontrib-ergopack
 ```
 
 * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts.
 * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting xonsh shell.
-* [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
 * [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
 * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
+
+## Onepath xontribs
+
+```bash
+xpip install -U 'xontrib-ergopack[onepath]'
+```
+
+* [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
+* All default xontribs.
 
 ## Prompt xontribs
 
@@ -41,7 +52,7 @@ xpip install -U 'xontrib-ergopack[dev]'
 ## All xontribs
 
 ```bash
-xpip install -U 'xontrib-ergopack[prompt,dev]'
+xpip install -U 'xontrib-ergopack[onepath,prompt,dev]'
 ```
 
 ## Usage
