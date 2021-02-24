@@ -21,7 +21,7 @@ xpip install -U xontrib-ergopack
 * [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
 * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
-* [autoxsh](https://github.com/Granitosaurus/xonsh-autoxsh) - Automatically execution of `.autoxsh` xonsh script after entering into the directory.
+* [autoxsh](https://github.com/Granitosaurus/xonsh-autoxsh) - Automatically execution of `.autoxsh` xonsh script after entering into the directory. Not activated by default.
 
 ## Onepath xontribs
 
