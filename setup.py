@@ -23,7 +23,8 @@ setuptools.setup(
         'xontrib-output-search',
         'xontrib-pipeliner',
         'xontrib-sh',
-        'xonsh-autoxsh'
+        'xonsh-autoxsh',
+        'xontrib-history-encrypt'
     ],
     extras_require={
         "onepath": ["xontrib-onepath"],
