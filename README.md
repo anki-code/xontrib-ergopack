@@ -16,8 +16,8 @@ The xontribs that do more significant changes are in PyPi "extras".
 xpip install -U xontrib-ergopack
 ```
 
-* [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts.
 * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting xonsh shell.
+* [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts.
 * [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
 * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
