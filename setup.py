@@ -29,7 +29,7 @@ setuptools.setup(
     extras_require={
         "onepath": ["xontrib-onepath"],
         "prompt": ["xontrib-prompt-bar"],
-        "dev": ["xontrib-hist-format"],
+        "dev": ["xontrib-hist-format", "xontrib-readable-traceback"],
     },
     packages=['xontrib'],
     package_dir={'xontrib': 'xontrib'},
