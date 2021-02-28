@@ -49,6 +49,7 @@ xpip install -U 'xontrib-ergopack[dev]'
 ```
 
 * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
+* [readable-traceback](https://github.com/vaaaaanquish/xontrib-readable-traceback) - Make traceback readable and colorized.
 * All default xontribs.
 
 ## All xontribs
