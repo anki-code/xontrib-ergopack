@@ -28,7 +28,7 @@ setuptools.setup(
     ],
     extras_require={
         "onepath": ["xontrib-onepath"],
-        "prompt": ["xontrib-prompt-bar"],
+        "prompt": ["xontrib-prompt-bar", "xontrib-prompt-starship"],
         "dev": ["xontrib-hist-format", "xontrib-readable-traceback", "hunter"],
     },
     packages=['xontrib'],
