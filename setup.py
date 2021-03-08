@@ -9,7 +9,7 @@ except (IOError, OSError):
 
 setuptools.setup(
     name='xontrib-ergopack',
-    version='0.1.3',
+    version='0.1.4',
     license='MIT',
     author='anki-code',
     author_email='no@no.no',
