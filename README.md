@@ -40,6 +40,7 @@ xpip install -U 'xontrib-ergopack[prompt]'
 ```
 
 * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
+* [prompt_starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
 * All default xontribs.
 
 ## Dev xontribs
