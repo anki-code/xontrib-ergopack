@@ -72,3 +72,4 @@ xontrib load ergopack
 * Ergopack is compatible with [dotfiles plugin](https://github.com/xxh/xxh-plugin-prerun-dotfiles#preinstall-pypi-packages) 
 for [xxh](https://github.com/xxh/xxh) - bring your favorite shell wherever you go through the ssh. 
 * This package was created with [xontrib cookiecutter template](https://github.com/xonsh/xontrib-cookiecutter).
+* [Get more xontribs for xonsh on Github](https://github.com/topics/xontrib)
