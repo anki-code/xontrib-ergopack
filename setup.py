@@ -33,7 +33,7 @@ setuptools.setup(
     },
     packages=['xontrib'],
     package_dir={'xontrib': 'xontrib'},
-    package_data={'xontrib': ['*.xsh']},
+    package_data={'xontrib': ['*.xsh', '*.py']},
     platforms='any',
     url='https://github.com/anki-code/xontrib-ergopack',
     project_urls={
