@@ -67,8 +67,10 @@ Load default xontribs:
 xontrib load ergopack
 ```
 
-## Credits
+## Links
 
+* [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users. 
+* [xontrib-rc-awesome](https://github.com/anki-code/xontrib-rc-awesome) - Awesome snippets of code for xonshrc in xonsh shell. 
 * Ergopack is compatible with [dotfiles plugin](https://github.com/xxh/xxh-plugin-prerun-dotfiles#preinstall-pypi-packages) 
 for [xxh](https://github.com/xxh/xxh) - bring your favorite shell wherever you go through the ssh. 
 * This package was created with [xontrib cookiecutter template](https://github.com/xonsh/xontrib-cookiecutter).
