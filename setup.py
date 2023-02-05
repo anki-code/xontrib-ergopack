@@ -9,7 +9,7 @@ except (IOError, OSError):
 
 setuptools.setup(
     name='xontrib-ergopack',
-    version='0.1.4',
+    version='0.1.5',
     license='MIT',
     author='anki-code',
     author_email='no@no.no',
@@ -24,7 +24,9 @@ setuptools.setup(
         'xontrib-pipeliner',
         'xontrib-sh',
         'xonsh-autoxsh',
-        'xontrib-history-encrypt'
+        'xontrib-history-encrypt',
+        'xontrib-clp',
+        'xontrib-cmd-durations',
     ],
     extras_require={
         "onepath": ["xontrib-onepath"],
