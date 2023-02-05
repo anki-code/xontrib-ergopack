@@ -23,6 +23,8 @@ xpip install -U xontrib-ergopack
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
 * [autoxsh](https://github.com/Granitosaurus/xonsh-autoxsh) - Automatically execution of `.autoxsh` xonsh script after entering into the directory. Not activated by default.
 * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history. Not activated by default.
+* [xontrib-clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard. Cross-platform. 
+* [xontrib-cmd-durations](https://github.com/jnoortheen/xontrib-cmd-durations) - Show long running commands durations in prompt with option to send notification when terminal is not focused. 
 
 ## Onepath xontribs
 
