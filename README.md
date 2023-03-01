@@ -16,15 +16,15 @@ The xontribs that do more significant changes are in PyPi "extras".
 xpip install -U xontrib-ergopack
 ```
 
-* [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting xonsh shell.
 * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts.
-* [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
+* [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting xonsh shell.
+* [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command. Not activated by default.
 * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
 * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
 * [autoxsh](https://github.com/Granitosaurus/xonsh-autoxsh) - Automatically execution of `.autoxsh` xonsh script after entering into the directory. Not activated by default.
 * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history. Not activated by default.
-* [xontrib-clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard. Cross-platform. 
-* [xontrib-cmd-durations](https://github.com/jnoortheen/xontrib-cmd-durations) - Show long running commands durations in prompt with option to send notification when terminal is not focused. 
+* [clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard. Cross-platform. 
+* [cmd-durations](https://github.com/jnoortheen/xontrib-cmd-durations) - Show long running commands durations in prompt with option to send notification when terminal is not focused. 
 
 ## Onepath xontribs
 
