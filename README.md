@@ -51,6 +51,8 @@ xpip install -U 'xontrib-ergopack[prompt]'
 xpip install -U 'xontrib-ergopack[dev]'
 ```
 
+* [macro](https://github.com/anki-code/xontrib-macro) - Library of the useful macros for the xonsh shell.
+* [debug-tools](https://github.com/xonsh/xontrib-debug-tools) - Debug tools for xonsh shell. 
 * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
 * [readable-traceback](https://github.com/vaaaaanquish/xontrib-readable-traceback) - Make traceback readable and colorized.
 * [hunter](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit. [How to use with xonsh](https://github.com/xonsh/xonsh/issues/4125#issuecomment-787462951). 
